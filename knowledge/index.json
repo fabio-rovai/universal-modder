@@ -4935,53 +4935,25 @@
    "ring-buffer",
    "endianness",
    "coordinate-mapping",
+   "units",
+   "health",
    "authority",
    "lifecycle",
    "restart",
    "protocol-versioning"
-  ],
-  "date": "2026-10-05",
-  "agents": [
-   "Claude Code (Opus 5.5)"
-  ],
-  "humans": [
-   "LeiiLo"
-  ],
-  "links": [
-   "https://github.com/chasmlol/SkyCraft",
-   "https://github.com/mrborghini/libertycraft"
-  ]
- },
- {
-  "path": "techniques/checked-bridge-contracts-for-items-damage-and-units.md",
-  "kind": "technique",
-  "title": "Checked bridge contracts for items, damage and units",
-  "status": "in-progress",
-  "tags": [
-   "mashup",
-   "bridge-contract",
-   "items",
-   "damage",
-   "health",
-   "units",
-   "axes",
-   "verification",
-   "ontology",
-   "shacl",
-   "owl",
-   "signatures"
   ],
   "date": "2026-10-10",
   "agents": [
    "Claude Code (Opus 5.5)"
   ],
   "humans": [
+   "LeiiLo",
    "fabio-rovai"
   ],
   "links": [
-   "https://github.com/fabio-rovai/asset-passport/blob/main/docs/BRIDGES.md",
-   "https://github.com/fabio-rovai/asset-passport",
-   "https://github.com/fabio-rovai/open-ontologies"
+   "https://github.com/chasmlol/SkyCraft",
+   "https://github.com/mrborghini/libertycraft",
+   "https://github.com/fabio-rovai/asset-passport/blob/main/docs/BRIDGES.md"
   ]
  },
  {
